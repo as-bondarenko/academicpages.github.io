@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  avatar           : "avatar-ASB.png"
   bio              : "Computational and Theoretical Chemist | Postdoctoral researcher at the University of Groningen"
   location         : "Groningen, NL"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "as-bondarenko"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "anna-bondarenko-18157b64" # only the last part of the profile name
+  orcid            : "https://orcid.org/0000-0001-5242-3281"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "anna_s_bond"
   vine             :
   weibo            :
   xing             :
