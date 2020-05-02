@@ -11,9 +11,9 @@ title                    : "Anna S. Bodarenko"
 title_separator          : "-"
 name                     : &name "Anna S. Bondarenko"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://as-bondarenko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "as-bondarenko/as-bondarenko.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Sidebar Name"
-  avatar           : "avatar-ASB.png"
+  avatar           : "images/avatar-ASB.png"
   bio              : "Computational and Theoretical Chemist | Postdoctoral researcher at the University of Groningen"
   location         : "Groningen, NL"
   employer         :
