@@ -16,7 +16,7 @@ News
 2019 Oct 11 - Milestone achieved: successfully defended my [PhD thesis](https://doi.org/10.33612/diss.98528598)!!! 
 
 2019 Sep 30 - Happy to have my [PhD thesis](https://doi.org/10.33612/diss.98528598) printed! 
-<img src="../images/thesis_printed.png" width="160" />
+<img src="../images/thesis_printed.jpeg" width="480" />
 
 2019 Aug 26 - Our paper on exciton dynamics in multichromophoric systems has been published online in [Chem. Phys.](https://www.sciencedirect.com/science/article/pii/S0301010419305968)! 
 
