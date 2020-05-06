@@ -1,10 +1,10 @@
 ---
-title: "Research"
 permalink: /research/
-excerpt: "Research"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /research/
+  - /research.html
 ---
 
 For my publications, see the [Publications](https://as-bondarenko.github.io/publications/) tab. Feel free to contact me in case you don't have access to any of the papers. Here, I describe some of my research interests.
