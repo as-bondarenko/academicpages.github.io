@@ -7,10 +7,6 @@ redirect_from:
   - /research.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 For my publications, see the [Publications](https://as-bondarenko.github.io/publications/) tab. Feel free to contact me in case you don't have access to any of the papers. Here, I describe some of my research interests.
 
 <div class="row">
