@@ -13,6 +13,8 @@ I am a postdoctoral fellow working with [Prof. Jasper Knoester](https://www.rug.
 
 News
 ======
+2020 Mar 23 - Another chapter of my thesis on the way to being published - now on the [arxiv](https://arxiv.org/abs/2003.10355).
+
 2019 Oct 11 - Milestone achieved: successfully defended my [PhD thesis](https://doi.org/10.33612/diss.98528598)!!! 
 
 2019 Sep 30 - Happy to have my [PhD thesis](https://doi.org/10.33612/diss.98528598) printed! 
