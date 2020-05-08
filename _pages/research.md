@@ -15,15 +15,25 @@ For my publications, see the [Publications](https://as-bondarenko.github.io/publ
 </div>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column">
     <h2>Column 1</h2>
     <p>Some text..</p>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="column">
     <h2>Column 2</h2>
-    <p>Some text..</p>
-    <img src="../images/research_exciton_dynamics.png" width="350" />
+    <img src="../images/research_exciton_dynamics.png" width="200" />
   </div>
 </div>
 
 
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
