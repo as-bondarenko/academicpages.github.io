@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Test
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -181,22 +181,3 @@ This tag styles large blocks of code.
 }
 </pre>
 
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
