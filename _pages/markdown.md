@@ -22,3 +22,15 @@ For my publications, see the [Publications](https://scholar.google.com/citations
   </div>
 </div>
 
+<div id="container">
+    <div id="floated">...some other random text</div>
+    ...
+    some random text
+    ...
+</div>
+
+<div style="width:100%;">
+    <div style="float:left;width:30%;"><img src="../images/research_exciton_dynamics.png" width="200" /></div>
+    <div style="float:none;"> text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text  </div>
+</div>
+
