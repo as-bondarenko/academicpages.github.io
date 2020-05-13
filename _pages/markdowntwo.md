@@ -1,6 +1,6 @@
 ---
 permalink: /markdowntwo/
-title: "Research (2)"
+title: "Research"
 author_profile: true
 redirect_from: 
   - /mdtwo/
