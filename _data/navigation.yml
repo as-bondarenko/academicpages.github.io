@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=y-6o3X0AAAAJ
+    
+  - title: "Research"
+    url: /markdowntwo/
 
   - title: "Outreach"
     url: /outreach/
@@ -11,9 +14,6 @@ main:
     
   - title: "Guide"
     url: /markdown/
-    
-  - title: "Research"
-    url: /markdowntwo/
 #
 # - title: "Talks"
 #   url: /talks/    
