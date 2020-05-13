@@ -14,7 +14,9 @@ For my publications, see the [Publications](https://scholar.google.com/citations
 
 <div style="width:100%;">
     <div style="float:left;width:30%;"><img src="../images/research_delocalization.png" /></div>
-    <div style="float:none;"> During my PhD studies, I modeled large tubular aggregates of cyanine dyes, which are synthetic analogues of chlorosomes, and explained optical changes observed in their absorption spectra <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b00967">[J. Phys. Chem. Lett. 2017</a>. I expanded these finding into a systematic study of aggregate size effects on optical and electronic properties to get insights into design rules for molecular electronics <a href="https://arxiv.org/abs/2003.10355">[arxiv preprint 2020]</a>. </div>
+    <div style="float:none;"> During my PhD studies, I modeled large tubular aggregates of cyanine dyes, which are synthetic analogues of chlorosomes. We explained optical changes observed in their absorption spectra <a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b00967">[J. Phys. Chem. Lett. 2017</a>. 
+
+We expanded these findings into a systematic study of aggregate size effects on optical and electronic properties to get insights into design rules for molecular electronics <a href="https://arxiv.org/abs/2003.10355">[arxiv preprint 2020]</a>. </div>
 </div>
 
 
