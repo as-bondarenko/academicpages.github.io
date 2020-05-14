@@ -7,7 +7,9 @@ redirect_from:
   - /markdowntwo.html
 ---
 
-For my publications, see the [Publications](https://scholar.google.com/citations?user=y-6o3X0AAAAJ) tab. Feel free to contact me in case you don't have access to any of the papers. Here, I describe some of my research interests.
+For my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=y-6o3X0AAAAJ). 
+Feel free to contact me in case you do not have access to (some of) my articles. 
+Here, I describe some of my research with a bit of narrative and context.
 
 
 ## Synthetic light-harvesting complexes
