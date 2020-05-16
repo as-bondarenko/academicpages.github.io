@@ -1,10 +1,10 @@
 ---
-permalink: /markdowntwo/
+permalink: /research/
 title: "Research"
 author_profile: true
 redirect_from: 
-  - /mdtwo/
-  - /markdowntwo.html
+  - /rsrch/
+  - /research.html
 ---
 
 For my publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=y-6o3X0AAAAJ). 
