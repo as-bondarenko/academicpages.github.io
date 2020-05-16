@@ -22,11 +22,18 @@ We expanded these findings into a systematic study of aggregate size effects on 
 </div>
 
 
-
 ## Intermolecular energy transfer
 
 <div style="width:100%;">
     <div style="float:left;width:30%;"><img src="../images/research_exciton_dynamics.png" /></div>
     <div style="float:none;"> Recently, we have comprehensively compared three computational models for energy transfer in multichromophoric complexes <a href="https://www.sciencedirect.com/science/article/pii/S0301010419305968">[Chem. Phys. 2020]</a>. </div>
+</div>
+
+
+## Modeling of nonlinear spectroscopy
+
+<div style="width:100%;">
+    <div style="float:left;width:30%;"><img src="../images/modeling_2DIR.png" width="300"/></div>
+    <div style="float:none;"> As part of my master's project, we developed a benchmark method to probe protein conformational changes based on two-dimensional infrared spectra <a href="https://aip.scitation.org/doi/abs/10.1063/1.4919716">[J. Chem. Phys. 2015]</a>. </div>
 </div>
 
