@@ -13,6 +13,8 @@ I am a postdoctoral fellow working with [Prof. Jasper Knoester](https://www.rug.
 
 News
 ======
+2020 May 19 - The "exciton (de)localization" chapter of my thesis is now out on [JCP](https://aip.scitation.org/doi/10.1063/5.0008688) (formerly on the [arxiv](https://arxiv.org/abs/2003.10355))!
+
 2020 Mar 23 - Another chapter of my thesis on the way to being published - now on the [arxiv](https://arxiv.org/abs/2003.10355).
 
 2019 Oct 11 - Milestone achieved: successfully defended my [PhD thesis](https://doi.org/10.33612/diss.98528598)!!! 
