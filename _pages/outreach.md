@@ -22,9 +22,7 @@ You can find me through the [search tool](https://confirm.skypeascientist.com/se
 And here some pictures of me and (high-)school students having some fun at the
 **Chemistry is fun** summer camp in Porto, Portugal, in 2013: 
 
-<img src="../images/porto/Eletroquimica_AA.jpg" width="400" />
-<img src="../images/porto/Eletroquimica_BB.jpg" width="400" />
-<img src="../images/porto/Eletroquimica_CC.jpg" width="400" />
-<img src="../images/porto/Eletroquimica_DD.jpg" width="400" />
+<img src="../images/porto/Eletroquimica_AA.jpg" width="400" /><img src="../images/porto/Eletroquimica_BB.jpg" width="400" />
+<img src="../images/porto/Eletroquimica_CC.jpg" width="400" /><img src="../images/porto/Eletroquimica_DD.jpg" width="400" />
 
 
