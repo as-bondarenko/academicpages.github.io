@@ -12,7 +12,7 @@ Here's a link to [my Figshare page](https://figshare.com/authors/Anna_S_Bondaren
 where you can check for my latest uploads.
 
 
-### Extended Herringbone (EHB) model in 3D
+## Extended Herringbone (EHB) model in 3D
 
 Here's a video I made with the 3D molecular graphics freeware *Blender* 
 to "bring to life" the arrangement of molecules in the Extended Herringbone (EHB) model :-)
