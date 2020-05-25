@@ -23,13 +23,13 @@ And here some pictures of me and (high-)school students having some fun at the
 **Chemistry is fun** summer camp in Porto, Portugal, in 2013: 
 
 <div style="width:100%;">
-    <div style="float:left;width:50%;"><img src="../images/porto/Eletroquimica_A_2.JPG /></div>
-    <div style="float:right;width:50%;"><img src="../images/porto/Eletroquimica_B_33.JPG /></div>
+    <div style="float:left;width:50%;"><img src="../images/porto/Eletroquimica_AA.jpg /></div>
+    <div style="float:right;width:50%;"><img src="../images/porto/Eletroquimica_BB.jpg /></div>
 </div>
 
 <div style="width:100%;">
-    <div style="float:left;width:50%;"><img src="../images/porto/Eletroquimica_C_48.JPG /></div>
-    <div style="float:right;width:50%;"><img src="../images/porto/Eletroquimica_D_60.JPG /></div>
+    <div style="float:left;width:50%;"><img src="../images/porto/Eletroquimica_CC.jpg /></div>
+    <div style="float:right;width:50%;"><img src="../images/porto/Eletroquimica_DD.jpg /></div>
 </div>
 
 
