@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow working with [Prof. Jasper Knoester](https://www.rug.nl/staff/j.knoester/) and [Dr. Thomas La Cour Jansen](https://www.rug.nl/staff/t.l.c.jansen/) at the [Zernike Institute for Advanced Materials](https://www.rug.nl/research/zernike/), [University of Groningen](https://www.rug.nl/) (Netherlands). Previously, I have obtained my PhD in the same group, after having obtained the MSc in Theoretical Chemistry and Computational Modelling ([TCCM](https://www.emtccm.org/)) at the [University of Porto](https://sigarra.up.pt/up/en). 
+I am a postdoctoral fellow working with [Prof. Jasper Knoester](https://www.rug.nl/staff/j.knoester/) 
+and [Dr. Thomas La Cour Jansen](https://www.rug.nl/staff/t.l.c.jansen/) at 
+the [Zernike Institute for Advanced Materials](https://www.rug.nl/research/zernike/), 
+[University of Groningen](https://www.rug.nl/) (Netherlands). Previously, I have obtained my PhD 
+in the same group, after having obtained the MSc in Theoretical Chemistry and Computational Modelling 
+([TCCM](https://www.emtccm.org/)) at the [University of Porto](https://sigarra.up.pt/up/en) (Portugal). 
 
 
 News
 ======
-2020 May 19 - The "exciton (de)localization" chapter of my thesis, formerly on the [arxiv](https://arxiv.org/abs/2003.10355), is now out on [JCP](https://aip.scitation.org/doi/10.1063/5.0008688)!
+2020 May 19 - The "exciton (de)localization" chapter of my thesis, formerly 
+on the [arxiv](https://arxiv.org/abs/2003.10355), is now out on [JCP](https://aip.scitation.org/doi/10.1063/5.0008688)!
 
 2020 Mar 23 - Another chapter of my thesis on the way to being published - now on the [arxiv](https://arxiv.org/abs/2003.10355).
 
@@ -22,5 +28,6 @@ News
 2019 Sep 30 - Happy to have my [PhD thesis](https://doi.org/10.33612/diss.98528598) printed! 
 <img src="../images/thesis_printed.jpeg" width="480" />
 
-2019 Aug 26 - Our paper on exciton dynamics in multichromophoric systems has been published online in [Chem. Phys.](https://www.sciencedirect.com/science/article/pii/S0301010419305968)! 
+2019 Aug 26 - Our paper on exciton dynamics in multichromophoric systems has been published 
+online in [Chem. Phys.](https://www.sciencedirect.com/science/article/pii/S0301010419305968)! 
 
