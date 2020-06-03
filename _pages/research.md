@@ -16,11 +16,11 @@ Here, I describe some of my research with a bit of narrative and context.
 
 <div style="width:100%;">
     <div style="float:left;width:30%;"><img src="../images/research_delocalization.png" /></div>
-    <div style="float:none;"> We modeled large tubular aggregates of cyanine dyes, which are synthetic analogues of chlorosomes. We explained optical changes observed in their absorption spectra [<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b00967">J. Phys. Chem. Lett. 2017</a>]. 
+    <div style="float:none;"> We modeled large tubular aggregates of cyanine dyes, which are synthetic analogues of chlorosomes, and explained optical changes observed in their absorption spectra [<a href="https://pubs.acs.org/doi/abs/10.1021/acs.jpclett.7b00967">J. Phys. Chem. Lett. 2017</a>]. 
 
 We expanded these findings into a systematic study of aggregate size effects on optical and electronic properties to get insights into design rules for molecular electronics [<a href="https://aip.scitation.org/doi/10.1063/5.0008688">J. Chem. Phys. 2020</a>]. 
 
-Very recently, we developed a model of such cyanine dye-based tubular aggregates with atomistic resolution: besides reproducing optical properties, the model allows us to unravel the microscopic origin of their photophysical properties [<a href="https://doi.org/10.26434/chemrxiv.12279956">Chemrxiv 2020</a>].  </div>
+In parallel, we went beyond phenomenological modeling by including atomistic information into the model: besides reproducing optical properties, the model allows us to unravel the microscopic origin of the photophysical properties of such aggregates [<a href="https://doi.org/10.26434/chemrxiv.12279956">Chemrxiv 2020</a>].  </div>
 </div>
 
 
