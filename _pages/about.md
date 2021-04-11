@@ -21,6 +21,16 @@ the MSc in Theoretical Chemistry and Computational Modelling
 
 News
 ======
+2021 Mar 24 - You can find the recording of my CTC talk [at this link](https://www.youtube.com/watch?v=1Ne1lvUGUYY)
+
+2021 Mar 23 - Tomorrow I will be giving a talk about part of my PhD work at the virtual edition of the CTC symposium
+
+2020 Oct 05 - Our multiscale model of C8S3 aggregates is out on [Chemical Science](https://doi.org/10.1039/D0SC03110K
+) (open-access)!
+
+2020 Oct 01 - Excited to start my postdoctoral position in the [Tempelaar Team](https://tempelaar.chem.northwestern.edu/)
+at [Northwestern University](https://www.northwestern.edu/)!
+
 2020 Sep 29 - Check out how our C8S3 molecular model is able to resolve the origin of molecular and excitonic disorder
 in such fascinating nanotubes - [read the open-access JACS paper](https://pubs.acs.org/doi/10.1021/jacs.0c07392)
 
