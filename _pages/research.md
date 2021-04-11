@@ -20,7 +20,7 @@ Here, I describe some of my research with a bit of narrative and context.
 
 We expanded these findings into a systematic study of aggregate size effects on optical and electronic properties to get insights into design rules for molecular electronics [<a href="https://aip.scitation.org/doi/10.1063/5.0008688">J. Chem. Phys. 2020</a>]. 
 
-In parallel, we went beyond phenomenological modeling by including atomistic information into the model: besides reproducing optical properties, the model allows us to unravel the microscopic origin of the photophysical properties of such aggregates [<a href="https://doi.org/10.26434/chemrxiv.12279956">Chemrxiv 2020</a>].  </div>
+In parallel, we went beyond phenomenological modeling by including atomistic information into the model: besides reproducing optical properties, the model allows us to unravel the microscopic origin of the photophysical properties of such aggregates [<a href="https://doi.org/10.1039/D0SC03110K">Chem. Sci. 2020</a>]. The detailed picture provided by this model is able to resolve the origin of molecular and excitonic disorder in C8S3 nanotubes [<a href="https://doi.org/10.1021/jacs.0c07392">JACS 2020</a>].  </div>
 </div>
 
 
