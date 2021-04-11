@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow working with [Prof. Jasper Knoester](https://www.rug.nl/staff/j.knoester/) 
-and [Dr. Thomas La Cour Jansen](https://www.rug.nl/staff/t.l.c.jansen/) at 
-the [Zernike Institute for Advanced Materials](https://www.rug.nl/research/zernike/), 
-[University of Groningen](https://www.rug.nl/) (Netherlands). Previously, I have obtained my PhD 
-in the same group, after having obtained the MSc in Theoretical Chemistry and Computational Modelling 
+I am a postdoctoral researcher in the [Tempelaar Team](https://tempelaar.chem.northwestern.edu/),
+part of the [Chemistry Department of Northwestern University](https://chemistry.northwestern.edu/).
+Previously, I obtained my PhD followed by a short postdoctoral appointment working with
+[Prof. Jasper Knoester](https://www.rug.nl/staff/j.knoester/) and 
+[Prof. Thomas La Cour Jansen](https://www.rug.nl/staff/t.l.c.jansen/) 
+at the [Zernike Institute for Advanced Materials](https://www.rug.nl/research/zernike/), 
+[University of Groningen](https://www.rug.nl/) (Netherlands). Before that, I have obtained
+the MSc in Theoretical Chemistry and Computational Modelling 
 ([TCCM](https://www.emtccm.org/)) at the [University of Porto](https://sigarra.up.pt/up/en) (Portugal). 
 
 
