@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher in the [Tempelaar Team](https://tempelaar.chem.northwestern.edu/),
-part of the [Chemistry Department of Northwestern University](https://chemistry.northwestern.edu/).
-Previously, I obtained my PhD followed by a short postdoctoral appointment working with
-[Prof. Jasper Knoester](https://www.rug.nl/staff/j.knoester/) and 
-[Prof. Thomas La Cour Jansen](https://www.rug.nl/staff/t.l.c.jansen/) 
+part of the [Chemistry Department](https://chemistry.northwestern.edu/) of 
+[Northwestern University](https://www.northwestern.edu/).
+Previously, I obtained my PhD working with [Prof. Jasper Knoester](https://www.rug.nl/staff/j.knoester/) 
+and [Prof. Thomas La Cour Jansen](https://www.rug.nl/staff/t.l.c.jansen/) 
 at the [Zernike Institute for Advanced Materials](https://www.rug.nl/research/zernike/), 
 [University of Groningen](https://www.rug.nl/) (Netherlands). Before that, I have obtained
 the MSc in Theoretical Chemistry and Computational Modelling 
@@ -21,6 +21,9 @@ the MSc in Theoretical Chemistry and Computational Modelling
 
 News
 ======
+2020 Sep 29 - Check out how our C8S3 molecular model is able to resolve the origin of molecular and excitonic disorder
+in such fascinating nanotubes - [read the open-access JACS paper](https://pubs.acs.org/doi/10.1021/jacs.0c07392)
+
 2020 May 19 - The "exciton (de)localization" chapter of my thesis, formerly 
 on the [arxiv](https://arxiv.org/abs/2003.10355), is now out on [JCP](https://aip.scitation.org/doi/10.1063/5.0008688)!
 
